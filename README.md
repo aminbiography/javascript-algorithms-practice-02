@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center">  
   <img src="https://raw.githubusercontent.com/aminbiography/javascript-algorithms-practice-01/refs/heads/main/JavaScript.png" alt="JavaScript Logo" width="100">
 </p>     
 
